@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Programming Exercise</title>
+</head>
+<body>
+    <h3>Web Programming Form</h3>
+    <form>
+        <label for="firstName">First name:</label>
+        <input type="text" id="firstName" name="firstName" value="Rong-Chi"><br><br>
+        
+        <label for="lastName">Last name:</label>
+        <input type="text" id="lastName" name="lastName" value="Huang"><br><br>
+        
+        <label for="studentID">Student ID:</label>
+        <input type="text" id="studentID" name="studentID" value="1123517"><br><br>
+
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>
+
+

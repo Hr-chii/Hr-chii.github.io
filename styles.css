@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.box1 {
+    background-color: lightblue;
+    color: black;
+    border: 3px solid red;
+    border-style: solid double solid double;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+.box2 {
+    background-color: yellow;
+    color: black;
+    border: 3px solid blue;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+.box3 {
+    background-color: green;
+    color: black;
+    border: 3px dashed purple;
+    width: 50%;
+    text-align: center;
+    margin: 10px auto;
+    font-weight: bold;
+    background-image: radial-gradient(circle, darkgreen 10%, transparent 10%);
+    background-size: 20px 20px;
+}
